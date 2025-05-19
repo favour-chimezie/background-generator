@@ -1,0 +1,38 @@
+body{
+  font: 'raleway'sans-serif;
+  color: rgba(0, 0,0, 5);
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 5em;
+  top: 15%;
+  background: linear-gradient(to right,red,yellow);
+}
+.color1{
+  height: 90px;
+  width: 200px;
+
+}
+
+.color2{
+  height: 90px;
+  width: 200px;
+}
+h1{
+  font: 600 3.5em 'raleway',sans-serif;
+  color: rgba(0, 0,0, 5);
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 150px;
+  width: 100%;
+  font-size: 200px;
+}
+h2{
+  font: 900 3.5em 'raleway',sans-serif;
+  font-family: arial;
+  color: rgba(0, 0,0, 5);
+  text-align: center;
+  text-transform: none;
+  letter-spacing: 0.5em;
+  font-size:100px;
+  
+}
